@@ -7,7 +7,7 @@ Bootstrap
 First you need to bootstrap::
 
   python2.6 bootstrap.py -dc development.cfg
-  bin/buildout c development.cfg
+  bin/buildout -c development.cfg
 
 And add the default user::
 
